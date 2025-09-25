@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF5722&center=true&width=700&lines=Welcome+to+my+GitHub+Profile;My+name+is+Morkos+Abanoub;I+work+as+a+React+Developer;I+code+in+HTML,+CSS,+SASS,+JavaScript,+React;I+love+building+modern+and+fast+interfaces" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF5722&center=true&width=700&lines=Welcome+to+my+GitHub+Profile;My+name+is+Morkos+Abanoub;I+work+as+a+React+Developer;I+code+in+HTML,+CSS,+SASS,+JS,+React;I+love+building+modern+and+fast+interfaces" alt="Typing SVG"/>
 </p>
 
 ---
