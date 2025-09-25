@@ -33,7 +33,7 @@
 
 ## ✉️ Contact Me
 - 📫 Email: <morkosabanoubmagdy@gmail.com>  
-- 💻 GitHub: [@Morkosabanoub](https://github.com/<YOUR_GITHUB_USERNAME>)
+- 💻 GitHub: [@Morkosabanoub](https://github.com/<Morkosabanoub>)
 
 <p align="center">
   <!-- Follow badge -->
